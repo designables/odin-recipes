@@ -1,0 +1,32 @@
+* {
+ box-sizing: border-box;
+}
+
+body {
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 20px 20px 20px 20px;
+ 
+}
+.site-name{
+width: 260px;
+text-align: center;
+ font-size: 2rem;
+ border: 3px solid rgb(167, 165, 165);
+ text-transform: uppercase;
+ 
+}
+
+.home ul {
+ padding-left: 0;
+}
+.home li {
+ font-weight: 700;
+ margin: 10px 0 10px 0;
+}
+
+img {
+ margin-top: 20px;
+ width: 200px;
+ height: 200px;
+ border-radius: 20px;
+}
